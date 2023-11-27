@@ -173,7 +173,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet-5"
+                 "value":"siblu-meet-5"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -250,7 +250,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet-4"
+                 "value":"siblu-meet-4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -327,7 +327,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet-3"
+                 "value":"siblu-meet-3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -404,7 +404,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet-2"
+                 "value":"siblu-meet-2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -481,7 +481,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet-1"
+                 "value":"siblu-meet-1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -558,7 +558,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Terrasse"
+                 "value":"siblu-Terrasse"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -635,7 +635,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Petanque"
+                 "value":"siblu-Petanque"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
